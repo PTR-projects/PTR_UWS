@@ -3,7 +3,7 @@
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S%20v2-blue.svg)](LICENSE)  
 **Open-source design files for the UWS.B amateur rocket recovery device**
 
-The **UWS.B** (Układ Wyrzutni Spadochronu – version made by bartekM) is a compact, lightweight, tilt-activated parachute deployment system designed for model and high-power rockets. It uses a magnetic sensor to detect changes in the Earth's magnetic field caused by rocket tilt at apogee and fires a pyrotechnic igniter to deploy the recovery parachute.
+The **UWS.B** (Układ Wyzwalania Spadochronu – version made by bartekM) is a compact, lightweight, tilt-activated parachute deployment system designed for model and high-power rockets. It uses a magnetic sensor to detect changes in the Earth's magnetic field caused by rocket tilt at apogee and fires a pyrotechnic igniter to deploy the recovery parachute.
 
 Inspired by the original UWS5 by "Jaskiniowiec", the UWS.B was developed by bartekM (Polskie Towarzystwo Rakietowe / Polish Rocketry Society) and improved with smaller electronics components, easier assembly, and additional features.
 
